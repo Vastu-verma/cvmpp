@@ -1,0 +1,4 @@
+let value = 3;
+print value < 10;
+print !(value == 3);
+print value >= 2;

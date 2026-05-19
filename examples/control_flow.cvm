@@ -1,0 +1,13 @@
+let x = 5;
+let sum = 0;
+
+while (x > 0) {
+  sum = sum + x;
+  x = x - 1;
+}
+
+if (sum == 15) {
+  print sum;
+} else {
+  print 0;
+}
